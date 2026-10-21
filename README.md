@@ -103,13 +103,6 @@ Hoặc chạy trực tiếp từ IDE (IntelliJ / Eclipse).
 
 ---
 
-## ✍️ Tác giả
-
-* **Pham Danh**
-* GitHub: [@danhpham28104](https://github.com/danhpham28104)
-
----
-
 ## 📄 Giấy phép
 
 Dự án được xây dựng cho mục đích học tập. Bạn có thể tự do tham khảo và phát triển thêm.
